@@ -15,10 +15,4 @@ Click Here to view the deployment!
 [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://chat-app-101.netlify.app/)
 
 ## **Tech Stack**
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<br>   
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<br>
-<img alt="Netlify" src="https://img.shields.io/badge/netlify-%2343853D.svg?style=for-the-badge&logo=netlify"/>
-<br>
-<img alt="Chat Engine" src="https://img.shields.io/badge/chatengine-%2314354C.svg?style=for-the-badge&logo=chat-engine-assets.s3.amazonaws.com"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img alt="Netlify" src="https://img.shields.io/badge/netlify-%2343853D.svg?style=for-the-badge&logo=netlify"/> <img alt="Chat Engine" src="https://img.shields.io/badge/chatengine-%2314354C.svg?style=for-the-badge&logo=chat-engine-assets.s3.amazonaws.com"/>
